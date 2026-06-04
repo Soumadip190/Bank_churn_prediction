@@ -1,0 +1,5 @@
+tensorflow==2.18.0
+streamlit==1.41.0
+scikit-learn
+pandas
+numpy
